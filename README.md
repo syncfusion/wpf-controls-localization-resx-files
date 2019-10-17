@@ -1,0 +1,1 @@
+# wpf-controls-localization-resx-files
