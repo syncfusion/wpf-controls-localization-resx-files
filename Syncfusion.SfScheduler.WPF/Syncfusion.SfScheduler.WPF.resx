@@ -134,7 +134,7 @@
     <comment>Text for August</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>CANCEL</value>
     <comment>Content for Cancel button</comment>
   </data>
   <data name="Count" xml:space="preserve">
@@ -158,7 +158,7 @@
     <comment>Text for December</comment>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>DELETE</value>
     <comment>Content for Delete button</comment>
   </data>
   <data name="DeleteOccurrence" xml:space="preserve">
@@ -322,7 +322,7 @@
     <comment>Text for Saturday</comment>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>SAVE</value>
     <comment>Text for Save</comment>
   </data>
   <data name="Second" xml:space="preserve">
@@ -396,5 +396,65 @@
   <data name="Resource" xml:space="preserve">
     <value>Resource(s)</value>
     <comment>Text for Resource(s)</comment>
+  </data>
+  <data name="AddReminder" xml:space="preserve">
+    <value>ADD REMINDER</value>
+    <comment>Text for AddReminder</comment>
+  </data>
+  <data name="ClickSnooze" xml:space="preserve">
+    <value>Click Snooze to be reminded in:</value>
+    <comment>Text for Click Snooze</comment>
+  </data>
+  <data name="DismissAll" xml:space="preserve">
+    <value>DISMISS ALL</value>
+    <comment>Text for DismissAll</comment>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Hour</value>
+    <comment>Text for Hour</comment>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>Minutes</value>
+    <comment>Text for Minutes</comment>
+  </data>
+  <data name="Reminder" xml:space="preserve">
+    <value>Reminder</value>
+    <comment>Text for Reminder</comment>
+  </data>
+  <data name="Snooze" xml:space="preserve">
+    <value>SNOOZE</value>
+    <comment>Text for Snooze</comment>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Week</value>
+    <comment>Text for Week</comment>
+  </data>
+  <data name="NoReminder" xml:space="preserve">
+    <value>There are no reminders to show.</value>
+    <comment>Text for NoReminder</comment>
+  </data>
+  <data name="Reminders" xml:space="preserve">
+    <value>Reminders</value>
+    <comment>Text for Reminders</comment>
+  </data>
+  <data name="DaysIntervalTypeReminder" xml:space="preserve">
+    <value>Days</value>
+    <comment>Text for Days</comment>
+  </data>
+  <data name="HoursIntervalTypeReminder" xml:space="preserve">
+    <value>Hours</value>
+    <comment>Text for Hours</comment>
+  </data>
+  <data name="MinutesIntervalTypeReminder" xml:space="preserve">
+    <value>Minutes</value>
+    <comment>Text for Minutes</comment>
+  </data>
+  <data name="WeeksIntervalTypeReminder" xml:space="preserve">
+    <value>Weeks</value>
+    <comment>Text for Weeks</comment>
+  </data>
+  <data name="EmptyAppointmentSubject" xml:space="preserve">
+    <value>No title</value>
+    <comment>Text for empty appointment subject</comment>
   </data>
 </root>
