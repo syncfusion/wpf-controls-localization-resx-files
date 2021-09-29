@@ -358,8 +358,8 @@
     <comment>Text for Thursday</comment>
   </data>
   <data name="TimeZone" xml:space="preserve">
-    <value>Time Zone</value>
-    <comment>Text for Timezone</comment>
+    <value>Time zone</value>
+    <comment>Text for Time zone</comment>
   </data>
   <data name="Title" xml:space="preserve">
     <value>Title</value>
@@ -484,5 +484,33 @@
   <data name="Foreground" xml:space="preserve">
     <value>Foreground</value>
     <comment>Text for Foreground</comment>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Month</value>
+    <comment>Text for Month</comment>
+  </data>
+  <data name="TimelineDay" xml:space="preserve">
+    <value>Timeline day</value>
+    <comment>Text for Timeline day</comment>
+  </data>
+  <data name="TimelineMonth" xml:space="preserve">
+    <value>Timeline month</value>
+    <comment>Text for Timeline month</comment>
+  </data>
+  <data name="TimelineWeek" xml:space="preserve">
+    <value>Timeline week</value>
+    <comment>Text for Timeline week</comment>
+  </data>
+  <data name="TimelineWorkWeek" xml:space="preserve">
+    <value>Timeline work week</value>
+    <comment>Text for Timeline work week</comment>
+  </data>
+  <data name="WorkWeek" xml:space="preserve">
+    <value>Work week</value>
+    <comment>Text for Work week</comment>
+  </data>
+  <data name="Today" xml:space="preserve">
+    <value>Today</value>
+    <comment>Text for Today</comment>
   </data>
 </root>
