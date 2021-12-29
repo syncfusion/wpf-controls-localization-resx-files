@@ -47,4 +47,4 @@ You can create .resx files for any language by following below steps,
 
 ## Editing default culture strings
 
-You can change default string of any control by adding the default .resx files ([from Github](https://github.com/syncfusion/wpf-controls-localization-resx-files)) to `Resources` folder of your application.  Syncfusion WPF controls reads the default string from the .resx files of application if its added.  
+You can change default string of any control by adding the default .resx files ([from Github](https://github.com/syncfusion/wpf-controls-localization-resx-files)) to `Resources` folder of your application.  Syncfusion WPF controls reads the default string from the .resx files of application if its added.   
