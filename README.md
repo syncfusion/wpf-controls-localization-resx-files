@@ -1,4 +1,4 @@
-# Localization of Syncfusion WPF Controls using .resx files        
+# Localization of Syncfusion WPF Controls using .resx files       
 
 This repository contains the default resource files (.resx) of Syncfusion WPF libraries. You can use this resource files to localize the strings for any selected language. 
 
