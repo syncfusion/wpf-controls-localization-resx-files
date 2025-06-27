@@ -5,7 +5,7 @@ This repository contains the default resource files (.resx) of Syncfusion WPF li
 ## Localization of Syncfusion WPF Controls
 
 Localization is the process of translating the application resources into different language for the specific cultures. You can localize the syncfusion WPF controls by adding resource file for each language.
-
+ 
 ### Changing application culture
 
 When you are changing the application culture, then you can localize the application based on application culture by creating .resx file.
