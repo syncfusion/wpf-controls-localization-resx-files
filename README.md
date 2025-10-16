@@ -18,7 +18,7 @@ public MainWindow()
 }
 ```
 
-### Creating .resx files
+### Creating .resx files 
 
 You can create .resx files for any language by following below steps,
 
